@@ -18,7 +18,7 @@ A FastAPI service that uses Google's Gemini Pro Vision model to analyze images a
 
 ## Postman Collection 🚀
 ### ShopChannel
-Development: ⬇️ [PostmanCollection_ShopGlobal_Dev.json](https://github.com/tridorian/presales-example/blob/main/PostmanCollection_ShopGlobal_Dev.json)
+Development: ⬇️ [PostmanCollection_ShopGlobal_Dev.json]
 
 ## API KEY
 The API key can be obtained by creating a new service acount for the Google Cloud's project, then assign necessary permission to it.
